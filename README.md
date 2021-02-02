@@ -10,5 +10,5 @@ shortened = shortener.shorten("https://example.org/") # calls the function 'shor
 print(shortened.short_link) # and finally prints the shortened link in the terminal
 ```
 
-# Contribuitions
+# Contribuiting
 This is my first module ever, if you have found some error or have a idea to improve the code feel free to fork in any way that you want.
