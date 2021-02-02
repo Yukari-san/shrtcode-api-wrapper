@@ -1,7 +1,7 @@
 # shrtcode-api-wrapper
 An wrapper made in Python for the [Shrtcode API](https://app.shrtco.de/docs)
 
-# Example
+# Examples
 
 ## Shorten a link
 ```
