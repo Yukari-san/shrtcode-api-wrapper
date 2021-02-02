@@ -21,6 +21,10 @@ shortened = shortener.get_info("xsyV8") # calls the function 'get_info()' and st
 print(shortened.original_link) # prints the original link in the terminal
 ```
 
+# Dependencies
+  - [requests](https://pypi.org/project/requests/)
+  - urllib
+
 # Contribuiting
 This is my first module ever, if you have found some error or have an idea to improve the code feel free to fork and edit in any way that you want.
 Also sorry for my bad english, i'm still learning :p
