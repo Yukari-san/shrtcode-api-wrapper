@@ -22,4 +22,5 @@ print(shortened.original_link) # prints the original link in the terminal
 ```
 
 # Contribuiting
-This is my first module ever, if you have found some error or have a idea to improve the code feel free to fork in any way that you want.
+This is my first module ever, if you have found some error or have an idea to improve the code feel free to fork and edit in any way that you want.
+Also sorry for my bad english, i'm still learning :p
