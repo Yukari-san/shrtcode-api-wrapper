@@ -158,6 +158,9 @@ class Shrtcode:
         
         def __eq__(self, other):
             return other.code == self.code
+        
+        def __str__(self):
+            return self.full_short_link
 
     class _Errors:
         def __init__(self):
