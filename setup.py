@@ -8,7 +8,7 @@ setup(
   author = 'Yukari-san',
   author_email = 'luiz2005eduardo@gmail.com',
   url = 'https://github.com/Yukari-san/shrtcode-api-wrapper/',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/Yukari-san/shrtcode-api-wrapper/archive/v_01.tar.gz',
   keywords = ['wrapper', 'shrtcode', 'url_shortener', 'no_authentication'],
   install_requires=[
           'requests',
