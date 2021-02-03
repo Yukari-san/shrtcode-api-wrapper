@@ -9,7 +9,8 @@ from shrtcode import Shrtcode
 
 shortener = Shrtcode() # init the 'Shrtcode' class
 shortened = shortener.shorten("https://example.org/") # calls the function 'shorten()' and stores the returned object in the variable 'shortened'
-print(shortened.short_link) # and finally prints the shortened link in the terminal
+print(shortened) # and finally prints the shortened link in the terminal
+print(shortened.short_link) # also you can print the short version (without the https://)
 ```
 
 ## Get info about a shortened link
