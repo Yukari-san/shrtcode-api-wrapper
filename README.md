@@ -3,11 +3,7 @@ An API wrapper made in Python for the [Shrtcode API](https://app.shrtco.de/docs)
 
 # Installing
 ```
-# Linux/macOS
-python3 -m pip install -U shrtcode
-
-# Windows
-py -3 -m pip install -U shrtcode
+pip install shrtcode
 ```
 
 # Examples
