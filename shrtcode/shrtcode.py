@@ -131,9 +131,9 @@ class Shrtcode:
         block_reason : str or None
             The reason for the block, if exists. None if created with shorten().
         created : str or None
-            description
+            Creation date formatted.
         timestamp : int or None
-            description
+            The timestamp of the creation date.
         """
         def __init__(self, code, original_link, extra={}):
             self.code = code
