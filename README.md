@@ -1,5 +1,5 @@
 # shrtcode-api-wrapper
-A simple free unofficial API wrapper made in Python for the [Shrtcode API](https://app.shrtco.de/)
+A simple unofficial API wrapper made in Python for the [Shrtcode API](https://app.shrtco.de/)
 
 # Installing
 ```
