@@ -1,3 +1,5 @@
+# ⚠️ The Shrtcode API no longer exists, but i will leave the code here. ⚠️
+
 # shrtcode-api-wrapper
 A simple unofficial API wrapper made in Python for the [Shrtcode API](https://app.shrtco.de/)
 
